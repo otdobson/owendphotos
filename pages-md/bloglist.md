@@ -1,1 +1,2 @@
 Apirl 26th, 2023 [Mastering the Art of Visual Storytelling: A Comprehensive Guide](/blog/Visual-Storytelling-A-Comprehensive-Guide)
+Apirl 27th, 2023 [Unveiling the Merger: Introducing Owen Dobson Studios and Owen's Optical Academy](/blog/theinduction)
