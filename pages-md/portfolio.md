@@ -9,7 +9,7 @@
 1. [Photography](../portfolios/photography.md): Explore the world through our lens.
 2. [Modeling](../portfolios/modeling.md): Embrace the art of expression.
 3. [Collaborations](../portfolios/collaborations.md): Witness the magic of creative partnerships.
-4. [Behind-the-Scenes]..(/portfolios/behind-the-scenes.md): Peek behind the curtain of the creative process.
+4. [Behind-the-Scenes](./portfolios/behind-the-scenes.md): Peek behind the curtain of the creative process.
 5. [Client Work](../portfolios/client-work.md): Dive into commissioned projects and client collaborations.
 6. [Fashion](../portfolios/fashion.md): Experience style and elegance through our eyes.
 7. [Events](../portfolios/events.md): Relive memorable occasions captured through our lens.
