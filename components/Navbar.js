@@ -3,7 +3,7 @@ export default function Navbar() {
     <header>
       <a href="/">
         <h1>OWEN DOBSON PHOTOGRAPHY && MODELING</h1>
-        <p>By Owen Dobson Studios & Owens Optic Academy</p>
+        <p>By Owen Dobson Studios & Owens Optics Academy</p>
       </a>
       <nav>
         <p>
