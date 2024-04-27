@@ -1,5 +1,7 @@
 ### My Portfolio
 
+### DEVELOPMENT IN PROGRESS
+For now visit my flickr at (https://flickr.com/owendphotos)
 # Welcome to Owen Dobson Studios & Owen's Optical Academy
 
 ## Discover Our Vision
