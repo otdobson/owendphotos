@@ -14,6 +14,7 @@ export default function Navbar() {
           <a href="/partnerships">Partnerships</a>
           <a href="/portfolio">Portfolio</a>
           <a href="/privacy_policy">Privacy Policy</a>
+          <a href="/about-us">About us</a>
           <a href="/tos">Terms of Service</a>
           <a href="/FAQ">FAQ</a>
         </p>
