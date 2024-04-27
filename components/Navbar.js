@@ -2,7 +2,7 @@ export default function Navbar() {
   return (
     <header>
       <a href="/">
-        <h1>OWEN DOBSON PHOTOGRAPHY &amp; MODELING by Owen Dobson Studios</h1>
+        <h1>OWEN DOBSON PHOTOGRAPHY & MODELING </h1>
       </a>
       <nav>
         <ul>
