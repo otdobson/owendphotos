@@ -6,16 +6,16 @@
 
 ### Portfolios
 
-1. [Photography](../portfolios/photography.md): Explore the world through our lens.
-2. [Modeling](../portfolios/modeling.md): Embrace the art of expression.
-3. [Collaborations](../portfolios/collaborations.md): Witness the magic of creative partnerships.
-4. [Behind-the-Scenes](./portfolios/behind-the-scenes.md): Peek behind the curtain of the creative process.
-5. [Client Work](../portfolios/client-work.md): Dive into commissioned projects and client collaborations.
-6. [Fashion](../portfolios/fashion.md): Experience style and elegance through our eyes.
-7. [Events](../portfolios/events.md): Relive memorable occasions captured through our lens.
-8. [Travel](../portfolios/travel.md): Embark on a visual journey around the globe.
-9. [Black and White](../portfolios/black-and-white.md): Discover the timeless beauty of monochrome.
-10. [Conceptual](../portfolios/conceptual.md): Immerse yourself in thought-provoking visual narratives.
+1. [Photography](/photography): Explore the world through our lens.
+2. [Modeling](/modeling): Embrace the art of expression.
+3. [Collaborations](/collaborations): Witness the magic of creative partnerships.
+4. [Behind-the-Scenes](/behind-the-scenes): Peek behind the curtain of the creative process.
+5. [Client Work](/client-work): Dive into commissioned projects and client collaborations.
+6. [Fashion](/fashion): Experience style and elegance through our eyes.
+7. [Events](/events): Relive memorable occasions captured through our lens.
+8. [Travel](travel): Embark on a visual journey around the globe.
+9. [Black and White](/black-and-white): Discover the timeless beauty of monochrome.
+10. [Conceptual](/conceptual): Immerse yourself in thought-provoking visual narratives.
 
 ## Our Story
 
